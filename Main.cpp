@@ -14,4 +14,6 @@ void main()
    }
    else
       cout << "Îøèáêà";
+   //test Github Actions
+   int test = 1;
 }
