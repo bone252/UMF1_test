@@ -24,7 +24,7 @@
     <ProjectGuid>{73c8abaf-585f-4ce8-ba97-bd7dfc74e0ed}</ProjectGuid>
     <RootNamespace>УМФлаба1</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>UMF_lab1</ProjectName>
+    <ProjectName>Umf_lab1</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
