@@ -28,9 +28,8 @@ jobs:
     - uses: actions/checkout@v4
 
     - name: List files
-      shell: pwsh
-      run: Get-ChildItem -Recurse
-
+      shell: cmd
+      run: dir /S
 
     - name: Add MSBuild to PATH
       uses: microsoft/setup-msbuild@v1.0.2
