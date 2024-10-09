@@ -14,6 +14,6 @@ void main()
    }
    else
       cout << "Îøèáêà";
-   //test Github Actions
-   int test = 1;
+   //test Github Actions v2
+   int testv2 = 1;
 }
